@@ -36,7 +36,6 @@ export function ArchitectureGraph({
       style: buildStylesheet(),
       minZoom: 0.35,
       maxZoom: 2.5,
-      wheelSensitivity: 0.25,
       boxSelectionEnabled: false,
     })
 
